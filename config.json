@@ -1,0 +1,16 @@
+{
+    "app_name": "Mouses",
+    "app_description": "Mouse App for logistic",
+    "app_identifier": "com.mouses.app",
+    "ios_app_version": "1.0.0",
+    "android_app_version": 100,
+    "facebookAppId": "12345",
+    "firebaseProjectId": "fcmthaimove",
+    "googleApiKeys": {
+        "ios": "AIzaSyCauJQdItKzxV4ghKrdOPd6hkY5fgoTBig",
+        "android": "AIzaSyCauJQdItKzxV4ghKrdOPd6hkY5fgoTBig",
+        "web": "AIzaSyCauJQdItKzxV4ghKrdOPd6hkY5fgoTBig",
+        "server": "AIzaSyCauJQdItKzxV4ghKrdOPd6hkY5fgoTBig"
+    },
+    "CodeCanyon_Purchase_Code": ""
+}

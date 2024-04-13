@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a64d7568.chunk.css",
+    "main.js": "/static/js/main.44e244d8.chunk.js",
+    "main.js.map": "/static/js/main.44e244d8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c7bee2f8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c7bee2f8.js.map",
+    "static/js/2.ee6aefc2.chunk.js": "/static/js/2.ee6aefc2.chunk.js",
+    "static/js/2.ee6aefc2.chunk.js.map": "/static/js/2.ee6aefc2.chunk.js.map",
+    "static/js/3.cb715303.chunk.js": "/static/js/3.cb715303.chunk.js",
+    "static/js/3.cb715303.chunk.js.map": "/static/js/3.cb715303.chunk.js.map",
+    "static/js/4.e9534391.chunk.js": "/static/js/4.e9534391.chunk.js",
+    "static/js/4.e9534391.chunk.js.map": "/static/js/4.e9534391.chunk.js.map",
+    "static/js/5.5127b70d.chunk.js": "/static/js/5.5127b70d.chunk.js",
+    "static/js/5.5127b70d.chunk.js.map": "/static/js/5.5127b70d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a64d7568.chunk.css.map": "/static/css/main.a64d7568.chunk.css.map",
+    "static/js/2.ee6aefc2.chunk.js.LICENSE.txt": "/static/js/2.ee6aefc2.chunk.js.LICENSE.txt",
+    "static/js/3.cb715303.chunk.js.LICENSE.txt": "/static/js/3.cb715303.chunk.js.LICENSE.txt",
+    "static/js/4.e9534391.chunk.js.LICENSE.txt": "/static/js/4.e9534391.chunk.js.LICENSE.txt",
+    "static/js/5.5127b70d.chunk.js.LICENSE.txt": "/static/js/5.5127b70d.chunk.js.LICENSE.txt",
+    "static/js/main.44e244d8.chunk.js.LICENSE.txt": "/static/js/main.44e244d8.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/static/media/background.53ac74b4.jpg",
+    "static/media/braintree-logo.png": "/static/media/braintree-logo.9d588dee.png",
+    "static/media/header-back.jpg": "/static/media/header-back.59104bf4.jpg",
+    "static/media/logo138x75black.png": "/static/media/logo138x75black.75e4c8af.png",
+    "static/media/logo138x75white.png": "/static/media/logo138x75white.a96df2e9.png",
+    "static/media/logo192x192.png": "/static/media/logo192x192.585fb672.png",
+    "static/media/mercadopago-logo.png": "/static/media/mercadopago-logo.2de0453b.png",
+    "static/media/money1.jpg": "/static/media/money1.ec50af15.jpg",
+    "static/media/money2.jpg": "/static/media/money2.433df22e.jpg",
+    "static/media/money3.jpg": "/static/media/money3.058743b6.jpg",
+    "static/media/payfast-logo.png": "/static/media/payfast-logo.906855d0.png",
+    "static/media/paystack-logo.png": "/static/media/paystack-logo.0ef1ef27.png",
+    "static/media/triobanner.png": "/static/media/triobanner.b775a455.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7bee2f8.js",
+    "static/js/2.ee6aefc2.chunk.js",
+    "static/css/main.a64d7568.chunk.css",
+    "static/js/main.44e244d8.chunk.js"
+  ]
+}

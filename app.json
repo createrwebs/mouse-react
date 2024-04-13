@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "7bb87c28-0e74-4217-b890-4853d2c2e97b"
+      }
+    },
+    "android": {
+      "package": "com.softcreater.mouses"
+    }
+  }
+}
